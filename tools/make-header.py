@@ -18,7 +18,7 @@ import base64
 import sys
 
 NAME = "Yash Sawarkar"
-ROLES = ["MERN developer", "DevOps & cloud", "exploring GenAI", "building with AI agents"]
+ROLES = ["MERN developer", "DevOps on AWS & GCP", "exploring GenAI", "building with AI agents"]
 
 W, H = 1200, 300
 FONT_PX = 22

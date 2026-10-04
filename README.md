@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Yash Sawarkar: MERN developer, DevOps and cloud, exploring GenAI, building with AI agents">
+  <img src="assets/header.svg" width="100%" alt="Yash Sawarkar: MERN developer, DevOps on AWS and GCP, exploring GenAI, building with AI agents">
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 ### 👋 Hi, I'm Yash
 
-A full-stack developer from Maharashtra 🇮🇳. I build web apps on the **MERN stack** ⚛️, and I like owning what happens after the code too: Docker images 🐳, CI pipelines, servers and deploys.
+A full-stack developer at **Nimap Infotech**, from Maharashtra 🇮🇳. I build web apps on the **MERN stack** ⚛️, and I like owning what happens after the code too: Docker images 🐳, CI pipelines, servers and deploys.
 
 Next, I'm heading into **generative AI** 🤖. I'm learning how LLM apps and agents really work by building with them: an OpenAI-powered feature here, a remote runner for Claude Code over MCP there.
 
@@ -31,7 +31,7 @@ Next, I'm heading into **generative AI** 🤖. I'm learning how LLM apps and age
 - 🌱 **2023** &nbsp; HTML, CSS, JavaScript → React
 - ⚛️ **2024** &nbsp; MERN apps: VideoTube, DSA Simplified, True Feedback
 - 🧩 **2025** &nbsp; An internship, low-level design in Java, DSA in C++
-- 🐳 **2026** &nbsp; Docker, Jenkins pipelines, Nginx, monorepos, Linux
+- 🐳 **2026** &nbsp; Docker, Jenkins pipelines, Nginx, AWS & GCP, monorepos, Linux
 - 🤖 **Next** &nbsp; GenAI: LLM apps, agents, MCP
 
 ### 🚀 Selected work
@@ -50,7 +50,7 @@ Next, I'm heading into **generative AI** 🤖. I'm learning how LLM apps and age
 | | |
 |:--|:--|
 | 🏗️ **Build** | <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,nodejs,express,mongodb&perline=10" height="34" alt="TypeScript, JavaScript, React, Next.js, Redux, Tailwind, Node.js, Express, MongoDB"> |
-| 🚢 **Ship** | <img src="https://skillicons.dev/icons?i=docker,jenkins,githubactions,nginx,linux,git,bash&perline=10" height="34" alt="Docker, Jenkins, GitHub Actions, Nginx, Linux, Git, Bash"> |
+| 🚢 **Ship** | <img src="https://skillicons.dev/icons?i=aws,gcp,docker,jenkins,githubactions,nginx,linux,git,bash&perline=10" height="34" alt="AWS, Google Cloud, Docker, Jenkins, GitHub Actions, Nginx, Linux, Git, Bash"> |
 | ➕ **Also** | <img src="https://skillicons.dev/icons?i=python,cpp,java,neovim&perline=10" height="34" alt="Python, C++, Java, Neovim"> |
 | 🔭 **Exploring** | OpenAI API · Claude Code · MCP · AI agents |
 
