@@ -1,0 +1,24 @@
+{
+  "_comment": "Everything on github.com/Theyashsawarkar besides the README. Apply with tools/apply-profile.sh (--check to compare). Pins have no API: set them by hand to match 'pins' (Customize your pins on the profile page); --check reports any mismatch.",
+  "user": {
+    "bio": "Full-stack MERN developer 🚀 · DevOps & cloud 🐳 · exploring GenAI 🤖",
+    "company": "Nimap Infotech",
+    "location": "Maharashtra, India",
+    "blog": "https://yash-sawarkar-portfolio.vercel.app",
+    "twitter_username": "theyashsawarkar",
+    "hireable": true
+  },
+  "social_accounts": [
+    "https://www.linkedin.com/in/theyashsawarkar/",
+    "https://www.instagram.com/theyashsawarkar/",
+    "https://www.naukri.com/code360/profile/Theyashsawarkar"
+  ],
+  "pins": [
+    "highwayman",
+    "True-Feedback",
+    "VideoTube-FrontEnd",
+    "Backend-Starter",
+    "Dsa-Simplified",
+    "vayu"
+  ]
+}
