@@ -11,7 +11,8 @@
   "social_accounts": [
     "https://www.linkedin.com/in/theyashsawarkar/",
     "https://www.instagram.com/theyashsawarkar/",
-    "https://www.naukri.com/code360/profile/Theyashsawarkar"
+    "https://www.naukri.com/code360/profile/Theyashsawarkar",
+    "https://twitter.com/theyashsawarkar"
   ],
   "pins": [
     "highwayman",
@@ -20,5 +21,6 @@
     "Backend-Starter",
     "Dsa-Simplified",
     "vayu"
-  ]
+  ],
+  "_comment_social": "The twitter.com entry is added by GitHub itself when twitter_username is set; keep it listed or apply would remove it."
 }
